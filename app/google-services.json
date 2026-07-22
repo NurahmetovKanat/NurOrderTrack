@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678102263020",
+    "project_id": "nurordertrack-344a6",
+    "storage_bucket": "nurordertrack-344a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678102263020:android:b97d0cd33aac8b497cf1c9",
+        "android_client_info": {
+          "package_name": "kz.nurkanat.nurordertrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUAOzbSKHPmzdBfu5GOfw2EdH4wsJbdyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

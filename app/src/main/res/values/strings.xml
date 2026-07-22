@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NurOrderTrack</string>
+
+    <!-- Общее -->
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="add">Добавить</string>
+    <string name="search">Поиск</string>
+    <string name="back">Назад</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="success">Успешно</string>
+    <string name="required_field">Обязательное поле</string>
+    <string name="no_data">Нет данных</string>
+
+    <!-- Авторизация -->
+    <string name="login">Войти</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="wrong_credentials">Неверный email или пароль</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="default_credentials">Данные по умолчанию:</string>
+    <string name="system_title">Система учёта заказов</string>
+    <string name="logout_confirm">Вы уверены что хотите выйти из аккаунта?</string>
+    <string name="logout_title">Выход</string>
+
+    <!-- Дашборд -->
+    <string name="dashboard">Главная</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="summary">Сводка</string>
+    <string name="recent_orders">Последние заказы</string>
+    <string name="all_orders">Все заказы</string>
+    <string name="no_orders">Заказов пока нет</string>
+
+    <!-- Статусы -->
+    <string name="status_new">Новый</string>
+    <string name="status_in_progress">В работе</string>
+    <string name="status_done">Выполнен</string>
+    <string name="status_closed">Закрыт</string>
+    <string name="status_cancelled">Отменён</string>
+
+    <!-- Заказы -->
+    <string name="orders">Заказы</string>
+    <string name="new_order">Новый заказ</string>
+    <string name="edit_order">Редактировать заказ</string>
+    <string name="order_detail">Детали заказа</string>
+    <string name="create_order">Создать заказ</string>
+    <string name="save_changes">Сохранить изменения</string>
+    <string name="delete_order">Удалить заказ?</string>
+    <string name="delete_order_confirm">Это действие нельзя отменить.</string>
+    <string name="order_not_found">Заказ не найден</string>
+    <string name="no_positions">Нет позиций</string>
+    <string name="add_positions">Добавьте позиции заказа</string>
+    <string name="order_composition">Состав заказа</string>
+    <string name="change_status">Изменить статус</string>
+    <string name="change_history">История изменений</string>
+    <string name="history_empty">История пуста</string>
+    <string name="comment">Комментарий</string>
+    <string name="optional">Необязательно</string>
+    <string name="total">Итого:</string>
+    <string name="found">Найдено:</string>
+    <string name="no_orders_found">Заказов нет</string>
+    <string name="search_orders">Поиск по клиенту или номеру...</string>
+    <string name="filter_by_status">Фильтр по статусу</string>
+    <string name="filter">Фильтр</string>
+    <string name="all_statuses">Все</string>
+    <string name="specify_client">Укажите клиента</string>
+    <string name="add_position">Добавьте хотя бы одну позицию</string>
+    <string name="order_error">Ошибка при создании заказа</string>
+    <string name="save_error">Ошибка при сохранении</string>
+
+    <!-- Клиент -->
+    <string name="client">Клиент</string>
+    <string name="clients">Клиенты</string>
+    <string name="client_name">Имя клиента</string>
+    <string name="client_phone">Телефон клиента</string>
+    <string name="client_search">Поиск клиента или введите вручную</string>
+    <string name="new_client">Новый клиент</string>
+    <string name="edit_client">Редактировать клиента</string>
+    <string name="no_clients">Клиентов нет</string>
+    <string name="search_clients">Поиск по имени или телефону...</string>
+    <string name="note">Заметка (необязательно)</string>
+    <string name="phone">Телефон</string>
+
+    <!-- Исполнитель -->
+    <string name="executor">Исполнитель</string>
+    <string name="select_executor">Выберите исполнителя</string>
+
+    <!-- Товары и услуги -->
+    <string name="products">Товары и услуги</string>
+    <string name="product_name">Название</string>
+    <string name="price">Цена (₸)</string>
+    <string name="unit">Ед. изм.</string>
+    <string name="new_product">Новый товар</string>
+    <string name="new_product_or_service">Новый товар / услуга</string>
+    <string name="no_products">Товаров и услуг нет</string>
+    <string name="no_products_hint">Нажмите + чтобы добавить товар или услугу</string>
+    <string name="search_products">Поиск по названию...</string>
+    <string name="archive">Архив</string>
+    <string name="select_product">Выберите товар или услугу</string>
+
+    <!-- Типы: товар / услуга -->
+    <string name="type_product">Товар</string>
+    <string name="type_service">Услуга</string>
+    <string name="section_products">Товары</string>
+    <string name="section_services">Услуги</string>
+    <string name="product_name_label">Название товара</string>
+    <string name="service_name_label">Название услуги</string>
+
+    <!-- Единицы измерения -->
+    <string name="unit_pcs">шт</string>
+    <string name="unit_kg">кг</string>
+    <string name="unit_hour">ч</string>
+    <string name="unit_m2">м²</string>
+    <string name="unit_m">м</string>
+    <string name="unit_l">л</string>
+
+    <!-- Пользователи -->
+    <string name="users">Сотрудники</string>
+    <string name="new_user">Новый сотрудник</string>
+    <string name="edit_user">Редактировать сотрудника</string>
+    <string name="no_users">Сотрудников нет</string>
+    <string name="role">Роль</string>
+    <string name="role_admin">Администратор</string>
+    <string name="role_manager">Менеджер</string>
+    <string name="role_executor">Исполнитель</string>
+    <string name="inactive">Неактивен</string>
+    <string name="active">Активен</string>
+    <string name="min_password">Минимум 6 символов</string>
+    <string name="invalid_email">Введите корректный email</string>
+
+    <!-- Аналитика -->
+    <string name="analytics">Аналитика</string>
+    <string name="period">Период</string>
+    <string name="today">Сегодня</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="all_time">Всё время</string>
+    <string name="total_orders">Заказов</string>
+    <string name="total_amount">Сумма (₸)</string>
+    <string name="status_distribution">Распределение по статусам</string>
+    <string name="detailed_stats">Детальная статистика</string>
+    <string name="top_clients">Топ клиентов</string>
+    <string name="export_excel">Экспорт в Excel</string>
+
+    <!-- Профиль -->
+    <string name="profile">Профиль</string>
+    <string name="account">Аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="status">Статус</string>
+    <string name="management">Управление</string>
+    <string name="manage_users">Управление пользователями</string>
+    <string name="products_catalog">Справочник товаров</string>
+
+    <!-- Уведомления -->
+    <string name="notif_order_created">Заказ создан!</string>
+    <string name="notif_status_changed">Статус изменён</string>
+    <string name="notif_order_deleted">Заказ удалён</string>
+    <string name="notif_order_updated">Заказ обновлён</string>
+
+    <!-- Детали -->
+    <string name="details">Детали</string>
+    <string name="created_at">Создан</string>
+    <string name="updated_at">Обновлён</string>
+    <string name="name_label">Имя</string>
+    <string name="email_label">Email</string>
+    <string name="role_label">Роль</string>
+    <string name="status_label">Статус</string>
+
+    <string name="no_name">Без имени</string>
+    <string name="default_email_hint">Email: admin@nurordertrack.kz</string>
+    <string name="default_password_hint">Пароль: Admin123!</string>
+    <string name="no_clients_hint">Нажмите + чтобы добавить клиента</string>
+    <string name="executor_prefix">Исполнитель: %s</string>
+    <string name="positions">Позиции</string>
+    <string name="notif_order_created_body">Заказ для %s успешно создан</string>
+    <string name="log_order_edited">заказ отредактирован</string>
+    <string name="log_data_updated">данные обновлены</string>
+    <string name="notif_order_updated_body">Заказ клиента %s был отредактирован</string>
+    <string name="order_number_title">Заказ #%s</string>
+    <string name="status_label_short">Статус</string>
+    <string name="label_name">Имя</string>
+    <string name="notif_order_deleted_body">Заказ клиента %s был удалён</string>
+    <string name="notif_status_changed_body">Заказ %s: %s → %s</string>
+    <string name="search_orders_hint">Поиск по клиенту, телефону, номеру...</string>
+    <string name="no_orders_filter_hint">Попробуйте изменить фильтры</string>
+    <string name="no_orders_hint">Нажмите + чтобы создать первый заказ</string>
+    <string name="filters">Фильтры</string>
+    <string name="reset_all">Сбросить всё</string>
+    <string name="reset_period">Сбросить период</string>
+    <string name="select_period_calendar">Выбрать период на календаре</string>
+    <string name="select">Выбрать</string>
+    <string name="select_period">Выберите период</string>
+    <string name="date_start">Начало</string>
+    <string name="date_end">Конец</string>
+    <string name="date_from_label">с %s</string>
+    <string name="date_to_label">по %s</string>
+    <string name="apply">Применить</string>
+    <string name="error_invalid_number">Введите число</string>
+    <string name="logout_short">Выйти</string>
+    <string name="no_users_hint">Нажмите + чтобы добавить сотрудника</string>
+    <string name="deactivate">Деактивировать</string>
+    <string name="activate">Активировать</string>
+    <string name="excel_col_order_num">№ Заказа</string>
+    <string name="excel_col_client">Клиент</string>
+    <string name="excel_col_phone">Телефон</string>
+    <string name="excel_col_executor">Исполнитель</string>
+    <string name="excel_col_status">Статус</string>
+    <string name="excel_col_product">Товар</string>
+    <string name="excel_col_qty">Кол-во</string>
+    <string name="excel_col_price">Цена</string>
+    <string name="excel_col_item_sum">Сумма позиции</string>
+    <string name="excel_col_total">Итого заказа</string>
+    <string name="excel_col_comment">Комментарий</string>
+    <string name="excel_col_date">Дата создания</string>
+    <string name="excel_total_row">ИТОГО:</string>
+    <string name="excel_sheet_name">Заказы</string>
+    <string name="excel_share_title">Экспорт заказов</string>
+    <string name="notif_channel_description">Уведомления о заказах</string>
+    <string name="log_status_changed">статус изменён</string>
+</resources>

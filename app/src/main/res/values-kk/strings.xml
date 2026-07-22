@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NurOrderTrack</string>
+
+    <!-- Жалпы -->
+    <string name="save">Сақтау</string>
+    <string name="cancel">Бас тарту</string>
+    <string name="delete">Жою</string>
+    <string name="edit">Өңдеу</string>
+    <string name="add">Қосу</string>
+    <string name="search">Іздеу</string>
+    <string name="back">Артқа</string>
+    <string name="yes">Иә</string>
+    <string name="no">Жоқ</string>
+    <string name="loading">Жүктелуде...</string>
+    <string name="error">Қате</string>
+    <string name="success">Сәтті</string>
+    <string name="required_field">Міндетті өріс</string>
+    <string name="no_data">Деректер жоқ</string>
+
+    <!-- Авторизация -->
+    <string name="login">Кіру</string>
+    <string name="logout">Шығу</string>
+    <string name="email">Email</string>
+    <string name="password">Құпия сөз</string>
+    <string name="wrong_credentials">Қате email немесе құпия сөз</string>
+    <string name="fill_all_fields">Барлық өрістерді толтырыңыз</string>
+    <string name="default_credentials">Әдепкі деректер:</string>
+    <string name="system_title">Тапсырыстарды есепке алу жүйесі</string>
+    <string name="logout_confirm">Шығуға сенімдісіз бе?</string>
+    <string name="logout_title">Шығу</string>
+
+    <!-- Бақылау тақтасы -->
+    <string name="dashboard">Басты бет</string>
+    <string name="welcome">Қош келдіңіз!</string>
+    <string name="summary">Қорытынды</string>
+    <string name="recent_orders">Соңғы тапсырыстар</string>
+    <string name="all_orders">Барлық тапсырыстар</string>
+    <string name="no_orders">Тапсырыстар жоқ</string>
+
+    <!-- Мәртебелер -->
+    <string name="status_new">Жаңа</string>
+    <string name="status_in_progress">Орындалуда</string>
+    <string name="status_done">Орындалды</string>
+    <string name="status_closed">Жабылды</string>
+    <string name="status_cancelled">Бас тартылды</string>
+
+    <!-- Тапсырыстар -->
+    <string name="orders">Тапсырыс</string>
+    <string name="new_order">Жаңа тапсырыс</string>
+    <string name="edit_order">Тапсырысты өңдеу</string>
+    <string name="order_detail">Тапсырыс мәліметтері</string>
+    <string name="create_order">Тапсырыс жасау</string>
+    <string name="save_changes">Өзгерістерді сақтау</string>
+    <string name="delete_order">Тапсырысты жою?</string>
+    <string name="delete_order_confirm">Бұл әрекетті болдырмау мүмкін емес.</string>
+    <string name="order_not_found">Тапсырыс табылмады</string>
+    <string name="no_positions">Позициялар жоқ</string>
+    <string name="add_positions">Тапсырыс позицияларын қосыңыз</string>
+    <string name="order_composition">Тапсырыс құрамы</string>
+    <string name="change_status">Мәртебені өзгерту</string>
+    <string name="change_history">Өзгерістер тарихы</string>
+    <string name="history_empty">Тарих бос</string>
+    <string name="comment">Түсініктеме</string>
+    <string name="optional">Міндетті емес</string>
+    <string name="total">Барлығы:</string>
+    <string name="found">Табылды:</string>
+    <string name="no_orders_found">Тапсырыстар жоқ</string>
+    <string name="search_orders">Клиент немесе нөмір бойынша іздеу...</string>
+    <string name="filter_by_status">Мәртебе бойынша сүзу</string>
+    <string name="filter">Сүзу</string>
+    <string name="all_statuses">Барлығы</string>
+    <string name="specify_client">Клиентті көрсетіңіз</string>
+    <string name="add_position">Кемінде бір позиция қосыңыз</string>
+    <string name="order_error">Тапсырыс жасау қатесі</string>
+    <string name="save_error">Сақтау қатесі</string>
+
+    <!-- Клиент -->
+    <string name="client">Клиент</string>
+    <string name="clients">Клиенттер</string>
+    <string name="client_name">Клиент аты</string>
+    <string name="client_phone">Клиент телефоны</string>
+    <string name="client_search">Клиентті іздеу немесе қолмен енгізу</string>
+    <string name="new_client">Жаңа клиент</string>
+    <string name="edit_client">Клиентті өңдеу</string>
+    <string name="no_clients">Клиенттер жоқ</string>
+    <string name="search_clients">Аты немесе телефон бойынша іздеу...</string>
+    <string name="note">Ескертпе (міндетті емес)</string>
+    <string name="phone">Телефон</string>
+
+    <!-- Орындаушы -->
+    <string name="executor">Орындаушы</string>
+    <string name="select_executor">Орындаушыны таңдаңыз</string>
+
+    <!-- Тауарлар мен қызметтер -->
+    <string name="products">Тауарлар мен қызметтер</string>
+    <string name="product_name">Атауы</string>
+    <string name="price">Бағасы (₸)</string>
+    <string name="unit">Өлшем бірлігі</string>
+    <string name="new_product">Жаңа тауар</string>
+    <string name="new_product_or_service">Жаңа тауар / қызмет</string>
+    <string name="no_products">Тауарлар мен қызметтер жоқ</string>
+    <string name="no_products_hint">Тауар немесе қызмет қосу үшін + басыңыз</string>
+    <string name="search_products">Атауы бойынша іздеу...</string>
+    <string name="archive">Мұрағат</string>
+    <string name="select_product">Тауар немесе қызметті таңдаңыз</string>
+
+    <!-- Түрлері: тауар / қызмет -->
+    <string name="type_product">Тауар</string>
+    <string name="type_service">Қызмет</string>
+    <string name="section_products">Тауарлар</string>
+    <string name="section_services">Қызметтер</string>
+    <string name="product_name_label">Тауар атауы</string>
+    <string name="service_name_label">Қызмет атауы</string>
+
+    <!-- Өлшем бірліктері -->
+    <string name="unit_pcs">дана</string>
+    <string name="unit_kg">кг</string>
+    <string name="unit_hour">сағ</string>
+    <string name="unit_m2">м²</string>
+    <string name="unit_m">м</string>
+    <string name="unit_l">л</string>
+
+    <!-- Қызметкерлер -->
+    <string name="users">Қызметкерлер</string>
+    <string name="new_user">Жаңа қызметкер</string>
+    <string name="edit_user">Қызметкерді өңдеу</string>
+    <string name="no_users">Қызметкерлер жоқ</string>
+    <string name="role">Рөл</string>
+    <string name="role_admin">Әкімші</string>
+    <string name="role_manager">Менеджер</string>
+    <string name="role_executor">Орындаушы</string>
+    <string name="inactive">Белсенді емес</string>
+    <string name="active">Белсенді</string>
+    <string name="min_password">Кемінде 6 таңба</string>
+    <string name="invalid_email">Дұрыс email енгізіңіз</string>
+
+    <!-- Аналитика -->
+    <string name="analytics">Аналитика</string>
+    <string name="period">Кезең</string>
+    <string name="today">Бүгін</string>
+    <string name="week">Апта</string>
+    <string name="month">Ай</string>
+    <string name="all_time">Барлық уақыт</string>
+    <string name="total_orders">Тапсырыстар</string>
+    <string name="total_amount">Сомасы (₸)</string>
+    <string name="status_distribution">Мәртебелер бойынша бөлу</string>
+    <string name="detailed_stats">Егжей-тегжейлі статистика</string>
+    <string name="top_clients">Үздік клиенттер</string>
+    <string name="export_excel">Excel-ге экспорт</string>
+
+    <!-- Профиль -->
+    <string name="profile">Профиль</string>
+    <string name="account">Аккаунт</string>
+    <string name="name">Аты</string>
+    <string name="status">Мәртебе</string>
+    <string name="management">Басқару</string>
+    <string name="manage_users">Пайдаланушыларды басқару</string>
+    <string name="products_catalog">Тауарлар анықтамалығы</string>
+
+    <!-- Хабарландырулар -->
+    <string name="notif_order_created">Тапсырыс жасалды!</string>
+    <string name="notif_status_changed">Мәртебе өзгертілді</string>
+    <string name="notif_order_deleted">Тапсырыс жойылды</string>
+    <string name="notif_order_updated">Тапсырыс жаңартылды</string>
+
+    <!-- Мәліметтер -->
+    <string name="details">Мәліметтер</string>
+    <string name="created_at">Жасалды</string>
+    <string name="updated_at">Жаңартылды</string>
+    <string name="name_label">Аты</string>
+    <string name="email_label">Email</string>
+    <string name="role_label">Рөл</string>
+    <string name="status_label">Мәртебе</string>
+
+    <string name="no_name">Аты жоқ</string>
+    <string name="default_email_hint">Email: admin@nurordertrack.kz</string>
+    <string name="default_password_hint">Құпия сөз: Admin123!</string>
+    <string name="no_clients_hint">Клиент қосу үшін + басыңыз</string>
+    <string name="executor_prefix">Орындаушы: %s</string>
+    <string name="positions">Позициялар</string>
+    <string name="notif_order_created_body">%s үшін тапсырыс сәтті жасалды</string>
+    <string name="log_order_edited">тапсырыс өңделді</string>
+    <string name="log_data_updated">деректер жаңартылды</string>
+    <string name="notif_order_updated_body">%s клиентінің тапсырысы өңделді</string>
+    <string name="order_number_title">Тапсырыс #%s</string>
+    <string name="status_label_short">Мәртебе</string>
+    <string name="label_name">Аты</string>
+    <string name="notif_order_deleted_body">%s клиентінің тапсырысы жойылды</string>
+    <string name="notif_status_changed_body">Тапсырыс %s: %s → %s</string>
+    <string name="search_orders_hint">Клиент, телефон, нөмір бойынша іздеу...</string>
+    <string name="no_orders_filter_hint">Сүзгілерді өзгертіп көріңіз</string>
+    <string name="no_orders_hint">Алғашқы тапсырыс жасау үшін + басыңыз</string>
+    <string name="filters">Сүзгілер</string>
+    <string name="reset_all">Барлығын тазалау</string>
+    <string name="reset_period">Кезеңді тазалау</string>
+    <string name="select_period_calendar">Күнтізбеден кезеңді таңдау</string>
+    <string name="select">Таңдау</string>
+    <string name="select_period">Кезеңді таңдаңыз</string>
+    <string name="date_start">Басы</string>
+    <string name="date_end">Соңы</string>
+    <string name="date_from_label">%s бастап</string>
+    <string name="date_to_label">%s дейін</string>
+    <string name="apply">Қолдану</string>
+    <string name="error_invalid_number">Сан енгізіңіз</string>
+    <string name="logout_short">Шығу</string>
+    <string name="no_users_hint">Қызметкер қосу үшін + басыңыз</string>
+    <string name="deactivate">Өшіру</string>
+    <string name="activate">Қосу</string>
+    <string name="excel_col_order_num">Тапсырыс №</string>
+    <string name="excel_col_client">Клиент</string>
+    <string name="excel_col_phone">Телефон</string>
+    <string name="excel_col_executor">Орындаушы</string>
+    <string name="excel_col_status">Мәртебе</string>
+    <string name="excel_col_product">Тауар</string>
+    <string name="excel_col_qty">Саны</string>
+    <string name="excel_col_price">Бағасы</string>
+    <string name="excel_col_item_sum">Позиция сомасы</string>
+    <string name="excel_col_total">Тапсырыс сомасы</string>
+    <string name="excel_col_comment">Түсініктеме</string>
+    <string name="excel_col_date">Жасалған күні</string>
+    <string name="excel_total_row">БАРЛЫҒЫ:</string>
+    <string name="excel_sheet_name">Тапсырыстар</string>
+    <string name="excel_share_title">Тапсырыстарды экспорттау</string>
+    <string name="notif_channel_description">Тапсырыстар туралы хабарландырулар</string>
+    <string name="log_status_changed">мәртебе өзгертілді</string>
+</resources>
